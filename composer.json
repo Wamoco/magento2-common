@@ -1,0 +1,14 @@
+{
+    "name": "wamoco/magento2-common",
+    "description": "TBD",
+    "version": "1.0.0",
+    "type": "magento2-module",
+    "autoload": {
+        "files": [
+            "Source/registration.php"
+        ],
+        "psr-4": {
+            "Wamoco\\Common\\": ""
+        }
+    }
+}
