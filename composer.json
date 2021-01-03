@@ -14,7 +14,7 @@
             "Source/registration.php"
         ],
         "psr-4": {
-            "Wamoco\\Common\\": ""
+            "Wamoco\\Common\\": "Source/"
         }
     }
 }
