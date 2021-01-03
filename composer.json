@@ -1,7 +1,7 @@
 {
     "name": "wamoco/magento2-common",
-    "description": "TBD",
-    "version": "1.0.3",
+    "description": "Magento2 Base Module for common functions",
+    "version": "1.0.4",
     "type": "magento2-module",
     "license": [
       "MIT"
